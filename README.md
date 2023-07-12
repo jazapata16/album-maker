@@ -6,7 +6,7 @@ Esta solución está diseñada para ofrecer una experiencia fácil de usar y per
 Nota(Para cambiar de posicion las imagenes arrastrar la foto al cuadro numerado con la posicion en la que la quiere colocar) los cuadros numerados apareceran debajo de el panel de fotos cada vez que agregues una foto nueva.
 
 ## Desarrollo
-
+.
 ### Prerrequisitos
 
 Antes de comenzar a desarrollar, asegúrate de tener instalado lo siguiente:
